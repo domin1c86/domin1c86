@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, here's domin1c86 👋
 
 ## About Me
 
@@ -53,10 +53,10 @@ Projects that are currently being developed or still have major features planned
 ## 📈 GitHub Stats
 
 ### GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domin1c86&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=domin1c86&show_icons=true&v=1)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domin1c86&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=domin1c86&layout=compact&v=1)
 
 
 
