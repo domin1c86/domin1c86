@@ -30,6 +30,12 @@ Projects whose main features have been completed and are ready to use.
 - [formatConv](https://github.com/domin1c86/formatConv)
   - A clutter-free tool for converting audio, video, and image formats.
   - Dart, Golang
+- [multi-hud](https://github.com/domin1c86/multi-hud)
+  - A Claude Code statusline plugin that displays real-time usage monitoring and cost estimation for Chinese LLM providers: DeepSeek, Kimi, GLM, MiniMax, and MiMo.
+  - TypeScript
+- [newsView](https://github.com/domin1c86/newsView)
+  - A web for everyday news.
+  - TypeScript + Python
 
 ### 🚧 In Development
 Projects that are currently being developed or still have major features planned.
@@ -40,15 +46,9 @@ Projects that are currently being developed or still have major features planned
 - [LiteSeal](https://github.com/domin1c86/LiteSeal)
   - Secure Messaging for Windows & Android: Private, Encrypted, and Storage-Efficient.
   - Tauri + Rust, React Native
-- [multi-hud](https://github.com/domin1c86/multi-hud)
-  - A Claude Code statusline plugin that displays real-time usage monitoring and cost estimation for Chinese LLM providers: DeepSeek, Kimi, GLM, MiniMax, and MiMo.
-  - TypeScript
 - [ToMD](https://github.com/domin1c86/ToMD)
   - With the help of AI Agent, it's simple to turn any website or app into Markdown.
   - Tauri + Rust
-- [newsView](https://github.com/domin1c86/newsView)
-  - A web for everyday news.
-  - TypeScript + Python
 
 ## 📈 GitHub Stats
 
