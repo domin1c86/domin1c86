@@ -40,6 +40,9 @@ Projects whose main features have been completed and are ready to use.
 ### 🚧 In Development
 Projects that are currently being developed or still have major features planned.
 
+- [Super-Work](https://github.com/domin1c86/Super-Work)
+  - An offline-first, all-in-one office suite. The Windows MVP unifies document, spreadsheet, presentation, PDF reading, HTML, and Markdown editing in a single lightweight workspace.
+  - Electron + rust, TypeScript
 - [pasteed](https://github.com/domin1c86/pasteed)
   - An open-source, free screenshot tool for Windows and macOS.
   - Tauri + Rust
